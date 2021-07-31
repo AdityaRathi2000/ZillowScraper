@@ -1,5 +1,5 @@
 # ZillowScraper
-Tool to scrape Zillow and get a spreadsheet with important information that can be used to create pivot tables and draw other conclusions.
+Tool to scrape Zillow (Real Estate Company) and get a spreadsheet with important information that can be used to create pivot tables and draw other conclusions.
 
 # How to use
 Download main.py and house_scraper.py and run the code to see a sample spreadsheet created with 7 properties from Philadelphia, PA. Edit the list in main.py to see more rows in the spreadsheet. 
